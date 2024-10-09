@@ -34,7 +34,9 @@ Task list
   -[ ] 
 > [!NOTE]
 > how to make notes
+
 > [!TIP]
 > How to make tip
+
 > [!Caution]
 > how to make a caution
