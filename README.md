@@ -40,3 +40,6 @@ Task list
 
 > [!Caution]
 > how to make a caution
+
+>[!Information]
+>How to make an information section
