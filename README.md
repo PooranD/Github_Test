@@ -32,3 +32,5 @@ This is [github](https://github.com) use it sometimes
 Task list
   -[x] #739
   -[ ] 
+> [!NOTE]
+> how to make notes
