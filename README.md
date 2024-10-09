@@ -41,5 +41,5 @@ Task list
 > [!Caution]
 > how to make a caution
 
->[!Information]
+> [!Information]
 >How to make an information section
