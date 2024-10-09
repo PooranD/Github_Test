@@ -9,3 +9,4 @@ CSN **160** work stuff
   CSN 160 <sup>work</sup> stuff
   > CSN 160 work stuff 
 [hyperlink](https://github.com)
+This is [github](https://github.com] use it sometimes
