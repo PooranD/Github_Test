@@ -42,4 +42,4 @@ Task list
 > how to make a caution
 
 > [!Information]
->How to make an information section
+> How to make an information section
